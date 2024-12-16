@@ -1,7 +1,7 @@
 function shortcut (s1, s2) {
   // your code here
 	if(string.s1 && string.s2){
-			return s1 s2;
+			return s1[0] + s2[0];
 	}
 }
 
